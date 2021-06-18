@@ -1,0 +1,72 @@
+.inlineblock {
+  display: inline-block;
+}
+.header-wraper {
+  position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+  height: 10px;
+}
+.logo {
+  vertical-align: middle;
+  margin-top: 67px;
+  margin-left: 132px;
+}
+.navigation {
+  vertical-align: middle;
+  margin-left: 725px;
+}
+.nav-li {
+  vertical-align: middle;
+  margin-top: 82px;
+  margin-left: 50px;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  color: #3D37F1;
+}
+.firstdiv {
+  display: flex;
+  justify-content: space-between;
+  width: 1800px;
+  margin-top: 390px;
+  margin-left: 132px;
+}
+.left-box {
+  width: 600px;
+  height: 200px;
+}
+.right-box {
+  width: 800px;
+  height: 526px;
+}
+.h2 {
+  font-size: 78px;
+  font-family: 'Lato', sans-serif;
+}
+.paragraph1 {
+  font-size: 22px;
+  margin-top: 42px;
+}
+.waveicon {
+  margin-top: 84px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 263px;
+  height: 76px;
+  background-color: #3D37F1;
+  border-radius: 38px;
+}
+.wave-p {
+  margin-left: 24px;
+  color: white;
+  font-size: 23px;
+  font-family: 'Poppins', sans-serif;
+}
+.seconddiv {
+  width: 1170px;
+  margin: 0 auto;
+  margin-top: 78px;
+}
